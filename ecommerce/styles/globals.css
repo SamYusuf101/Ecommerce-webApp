@@ -554,6 +554,7 @@ padding: 6px;
 
 }
 
+
 .maylike-products-wrapper{
   margin-top: 85px;
 }
@@ -706,8 +707,8 @@ margin-top: 160px;
 
   }
   .product .cart-product-image{
-    width: 25%;
-    height: 25%;
+    width: 15%;
+    height: 15%;
   }
   .buttons .add-to-cart{
     width: 150px;
